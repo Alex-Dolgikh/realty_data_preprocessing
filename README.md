@@ -1,7 +1,7 @@
 #  Realty_data_preprocessing
 Phase 0 - data preparation group project
 
-## Команда Pandas : (https://github.com/alizhgir)[Алиса], (https://github.com/Solar-Iz)[Светлана] и Алексей 
+## Команда Pandas : [Алиса](https://github.com/alizhgir), [Светлана](https://github.com/Solar-Iz) и Алексей 
 
 **Задача** - подготовить датасет для дальнейшего исследования. Подготовка включает в себя три этапа: EDA, очистка данных, feature engineering 
 
